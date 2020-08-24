@@ -4,8 +4,8 @@
 ## [Check the video to see what you can do with it and how it works](https://youtu.be/-gJ7nIwZwlc)
 
 <p float="center">
-  <img width="430" src="https://github.com/FiCacador/Customizable-Dog-Name-Tag/raw/master/images/Buddy_OpenSCAD.png" />
-  <img width="430" src="https://github.com/FiCacador/Customizable-Dog-Name-Tag/raw/master/images/Tag_on_dog.JPG" />
+  <img width="420" src="https://github.com/FiCacador/Customizable-Dog-Name-Tag/raw/master/images/Buddy_OpenSCAD.png" />
+  <img width="420" src="https://github.com/FiCacador/Customizable-Dog-Name-Tag/raw/master/images/Tag_on_dog.JPG" />
 </p>
 
 ### Customizable features:
@@ -19,8 +19,8 @@
 - **Colors of plate and Name (for visual purposes only)**  
 
 <p float="center">
-  <img width="430" src="https://github.com/FiCacador/Customizable-Dog-Name-Tag/raw/master/images/Key_ring_in.JPG" />
-  <img width="430" src="https://github.com/FiCacador/Customizable-Dog-Name-Tag/raw/master/images/Not_my_name.JPG" />
+  <img width="420" src="https://github.com/FiCacador/Customizable-Dog-Name-Tag/raw/master/images/Key_ring_in.JPG" />
+  <img width="420" src="https://github.com/FiCacador/Customizable-Dog-Name-Tag/raw/master/images/Not_my_name.JPG" />
 </p>
 
 ### Requirements:
@@ -33,8 +33,8 @@
 - Slicer Software of your choice
 
 <p float="center">
-  <img width="430" src="https://github.com/FiCacador/Customizable-Dog-Name-Tag/raw/master/images/Measure_diameter.JPG" />
-  <img width="430" src="https://github.com/FiCacador/Customizable-Dog-Name-Tag/raw/master/images/Measure_thickness.JPG" />
+  <img width="420" src="https://github.com/FiCacador/Customizable-Dog-Name-Tag/raw/master/images/Measure_diameter.JPG" />
+  <img width="420" src="https://github.com/FiCacador/Customizable-Dog-Name-Tag/raw/master/images/Measure_thickness.JPG" />
 </p>
 
 ### Print recommended settings:
@@ -47,8 +47,8 @@
 - Change filament when only the name at the top is being printed
 
 <p float="center">
-  <img width="430" src="https://github.com/FiCacador/Customizable-Dog-Name-Tag/raw/master/images/Buddy_infill.png" />
-  <img width="430" src="https://github.com/FiCacador/Customizable-Dog-Name-Tag/raw/master/images/Tag_printed.JPG" />
+  <img width="420" src="https://github.com/FiCacador/Customizable-Dog-Name-Tag/raw/master/images/Buddy_infill.png" />
+  <img width="420" src="https://github.com/FiCacador/Customizable-Dog-Name-Tag/raw/master/images/Tag_printed.JPG" />
 </p>
 
 ---
